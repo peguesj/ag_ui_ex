@@ -40,3 +40,4 @@ lessons/
 # Environment
 .env
 .env.*
+.env
